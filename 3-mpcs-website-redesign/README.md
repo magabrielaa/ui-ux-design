@@ -1,5 +1,5 @@
 
-## MPCS WEBSITE REDESIGN
+# MPCS WEBSITE REDESIGN
 
 View [MPCS Website Redesign](https://www.figma.com/file/fGR6BpdBI1qdKYpoLfw0b9/Assignment-3?node-id=0%3A1&t=Tu1wfdnuh2j43X7l-1)
 
