@@ -4,6 +4,9 @@ View [Course Registration Web App](https://www.figma.com/file/r13bwkc3mdHcCL6adl
 
 [Prototype view](https://www.figma.com/proto/r13bwkc3mdHcCL6adlEZx5/Assignment-4?page-id=0%3A1&type=design&node-id=1-2&viewport=69%2C284%2C0.05&scaling=scale-down&starting-point-node-id=1%3A2)
 
+https://github.com/magabrielaa/ui-ux-design/assets/90418921/ee22fc94-a23d-4d27-bd9f-e3e0563b7c61
+
+
 ## User Needs
 
 - Where do I register for courses?
